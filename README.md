@@ -1,6 +1,6 @@
 # MINDSHARE
-MINDSHARE
 
+시각장애인 독서 공유 웹 플랫폼 서비스
 
 [Link](https://jessieyun.github.io/mindsharedesign/)
 
